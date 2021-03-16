@@ -1,4 +1,4 @@
-import 'package:appequipo/pages/registerPage.dart';
+import 'package:appequipo/src/pages/registerPage.dart';
 import 'package:flutter/material.dart';
 
 void main() {
